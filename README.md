@@ -9,6 +9,9 @@ For this years PI in the sky project me and dylan decided to make a thomas the t
 # Problem
 I do not have a thomas the tie fighter drone. This is a huge issue.
 
+# Solution
+make a thomas the tie fighter drone
+
 # Some forseeable bumps in the road include:
 1. the shape of tie fighters are really strange.  the walls and the shape of the cockpit will introduce a interesting challenge of space (get it, like space wars) managment.
 2. weight,  goes hand in hand w/ the previous issue of shape.  but the walls will introduce a lot more weght to the build, the choice of material will be very important.  it will probably be styrofoam.
