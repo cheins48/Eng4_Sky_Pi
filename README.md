@@ -7,7 +7,7 @@ For this years PI in the sky project me and dylan decided to make a thomas the t
 ![alt text](https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IThomas_the_TIE_fighter_drone_by_Null_Hypothesis_-_Thingiverse.jpg?raw=true)
 
 # Problem
-I do not have a thomas the tie fighter drone.
+I do not have a thomas the tie fighter drone. This is a huge issue.
 
 # Some forseeable bumps in the road include:
 1. the shape of tie fighters are really strange.  the walls and the shape of the cockpit will introduce a interesting challenge of space (get it, like space wars) managment.
