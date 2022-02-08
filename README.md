@@ -25,3 +25,6 @@ website for making a laser pointer. https://makersportal.com/blog/2019/5/27/diy-
 
 Supplies need for project
 [Shopping list](https://docs.google.com/document/d/1tPvGNWoNBOXyaVN1nHXxPhS11FHQBHK2nczqA5JGK0U/edit?usp=sharing)
+
+#Media/Design concepts
+
