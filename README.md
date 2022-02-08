@@ -4,6 +4,8 @@
 
 For this years PI in the sky project me and dylan decided to make a thomas the tie fighter drone.  we think it would be a poetic end to our in class independent projects, as our first project together was thomas the dank tank.  we were inspired by this offhand photo we found. 
 
+![alt text](https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IThomas_the_TIE_fighter_drone_by_Null_Hypothesis_-_Thingiverse.jpg?raw=true)
+
 some forseeable bumps in the road include:
 1. the shape of tie fighters are really strange.  the walls and the shape of the cockpit will introduce a interesting challenge of space (get it, like space wars) managment.
 2. weight,  goes hand in hand w/ the previous issue of shape.  but the walls will introduce a lot more weght to the build, the choice of material will be very important.  it will probably be styrofoam.
