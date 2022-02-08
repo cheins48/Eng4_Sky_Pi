@@ -6,7 +6,10 @@ For this years PI in the sky project me and dylan decided to make a thomas the t
 
 ![alt text](https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IThomas_the_TIE_fighter_drone_by_Null_Hypothesis_-_Thingiverse.jpg?raw=true)
 
-some forseeable bumps in the road include:
+# Problem
+I do not have a thomas the tie fighter drone.
+
+# some forseeable bumps in the road include:
 1. the shape of tie fighters are really strange.  the walls and the shape of the cockpit will introduce a interesting challenge of space (get it, like space wars) managment.
 2. weight,  goes hand in hand w/ the previous issue of shape.  but the walls will introduce a lot more weght to the build, the choice of material will be very important.  it will probably be styrofoam.
 3. drone parts (see shopping list at bottom of page).  apparently we have a lot of these in the lab from an old Eng4 project but me and dylan havent seen any of them.
