@@ -14,6 +14,7 @@ I do not have a thomas the tie fighter drone. This is a huge issue.
 2. weight,  goes hand in hand w/ the previous issue of shape.  but the walls will introduce a lot more weght to the build, the choice of material will be very important.  it will probably be styrofoam.
 3. drone parts (see shopping list at bottom of page).  apparently we have a lot of these in the lab from an old Eng4 project but me and dylan havent seen any of them.
 4. learning to program the drone parts.  the most annoying part of this is that there are countless drone coding tutorials ive found, but most are useless until I know what kind of harware I'm working with.
+5. figuring out what out PI is gonna do.  the current plan is to make it turn laser pointers on and make a "pew" sound.
 
 most of the information about drones that we are learning comes from this really exellent two part youtube series on drone theory by riley morgan (linked here: https://www.youtube.com/watch?v=K05UwsiqZ_E&list=PLwQuIH2CxvuNwSc9hrZjqlJOshi5iXb3l)
 
