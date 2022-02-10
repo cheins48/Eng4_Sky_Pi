@@ -27,4 +27,4 @@ Supplies need for project
 [Shopping list](https://docs.google.com/document/d/1tPvGNWoNBOXyaVN1nHXxPhS11FHQBHK2nczqA5JGK0U/edit?usp=sharing)
 
 # Media/Design concepts
-<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(29).png?raw=true">
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(29).png?raw=true" width="700">
