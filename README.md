@@ -19,6 +19,8 @@ make a thomas the tie fighter drone that shoots lasers and scares children.
 4. learning to program the drone parts.  the most annoying part of this is that there are countless drone coding tutorials ive found, but most are useless until I know what kind of harware I'm working with.
 5. figuring out what out PI is gonna do.  the current plan is to make it turn laser pointers on and make a "pew" sound.
 
+
+# Links
 most of the information about drones that we are learning comes from this really exellent two part youtube series on drone theory by riley morgan (linked here: https://www.youtube.com/watch?v=K05UwsiqZ_E&list=PLwQuIH2CxvuNwSc9hrZjqlJOshi5iXb3l)
 
 website for making a laser pointer. https://makersportal.com/blog/2019/5/27/diy-cat-laser-pointer-toy
