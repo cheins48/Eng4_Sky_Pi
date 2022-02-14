@@ -23,17 +23,6 @@ make a thomas the tie fighter drone that shoots lasers and scares children.
 <img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(29).png?raw=true" width="700">
 <img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/WIN_20220210_10_05_11_Pro.jpg?raw=true" width="700">
 
-## Links
-most of the information about drones that we are learning comes from this really exellent two part youtube series on drone theory by riley morgan (linked here: https://www.youtube.com/watch?v=K05UwsiqZ_E&list=PLwQuIH2CxvuNwSc9hrZjqlJOshi5iXb3l)
-
-website for making a laser pointer. https://makersportal.com/blog/2019/5/27/diy-cat-laser-pointer-toy
-
-Supplies need for project
-[Shopping list](https://docs.google.com/document/d/1tPvGNWoNBOXyaVN1nHXxPhS11FHQBHK2nczqA5JGK0U/edit?usp=sharing)
-
-[Flight concept](https://www.youtube.com/watch?v=Lkd2jHDpMM0)
-
-
 ### Sudo Code For Laser
  ``` python
 import pygame
@@ -50,3 +39,23 @@ while pygame.mixer.music.get_busy() == True:
 # When button is pressed, signal reaches laser's power sourse and turns on
 
 ```
+
+
+## Links
+most of the information about drones that we are learning comes from this really exellent two part youtube series on drone theory by riley morgan (linked here: https://www.youtube.com/watch?v=K05UwsiqZ_E&list=PLwQuIH2CxvuNwSc9hrZjqlJOshi5iXb3l)
+
+website for making a laser pointer. https://makersportal.com/blog/2019/5/27/diy-cat-laser-pointer-toy
+
+Supplies need for project
+[Shopping list](https://docs.google.com/document/d/1tPvGNWoNBOXyaVN1nHXxPhS11FHQBHK2nczqA5JGK0U/edit?usp=sharing)
+
+[Flight concept](https://www.youtube.com/watch?v=Lkd2jHDpMM0)
+
+## Schedule
+
+We will only plan two to three weeks at a time to maintain flexablity.
+
+our first three weeks will be dedicated to getting the PI stuff outta the way. 
+feb 21st to 26th getting the lazer code opperational
+feb 28th to march 2nd getting the speaker working
+march 4th to 9th *Might* be dedicated to getting a signal from a remote and controling it remotly with a controller depending on whether we have a micro reciever, and if we are able to get the other weeks done.
