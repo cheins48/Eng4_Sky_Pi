@@ -36,8 +36,9 @@ Supplies need for project
 
 ### Sudo Code For Laser
  ``` python
-  import pygame
-When turned on
+import pygame
+
+# When turned on speaker plays downloaded audio
 
 pygame.mixer.init()
 pygame.mixer.music.load("myFile.wav")
