@@ -37,7 +37,7 @@ Supplies need for project
 ### Sudo Code For Laser
  ``` python
  
-when turned on
-  speaker plays downloaded audio [Flight concept](https://www.youtube.com/watch?v=Lkd2jHDpMM0)
+When turned on
+  Speaker plays downloaded audio (https://www.youtube.com/watch?v=Lkd2jHDpMM0)
 
 ```
