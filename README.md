@@ -45,5 +45,8 @@ pygame.mixer.music.load("myFile.wav")
 pygame.mixer.music.play()
 while pygame.mixer.music.get_busy() == True:
     continue
+    
+# When button on controller is pressed, laser go pew pew.
+# When button is pressed, signal reaches laser's power sourse and turns on
 
 ```
