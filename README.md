@@ -43,7 +43,7 @@ while pygame.mixer.music.get_busy() == True:
 
 ## Links
 most of the information about drones that we are learning comes from this really exellent two part youtube series on drone theory by riley morgan (linked here: https://www.youtube.com/watch?v=K05UwsiqZ_E&list=PLwQuIH2CxvuNwSc9hrZjqlJOshi5iXb3l)
-
+video on making budget racing drone, also where we got our parts list.  https://www.youtube.com/watch?v=GFNGUDT_9_c
 website for making a laser pointer. https://makersportal.com/blog/2019/5/27/diy-cat-laser-pointer-toy
 
 Supplies need for project
