@@ -59,3 +59,5 @@ our first three weeks will be dedicated to getting the PI stuff outta the way.
 feb 21st to 26th getting the lazer code opperational
 feb 28th to march 2nd getting the speaker working
 march 4th to 9th *Might* be dedicated to getting a signal from a remote and controling it remotly with a controller depending on whether we have a micro reciever, and if we are able to get the other weeks done.
+
+https://cvilleschools.onshape.com/documents/d02f9702869bb797ed84e06b/w/fb1974f453891c9a477c8c79/e/1e578d433cdf4da34e018e66
