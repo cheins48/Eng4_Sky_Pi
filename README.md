@@ -72,6 +72,7 @@ ________________________________________________________________________________
 
 ## Rough draft
 
+https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(34).png?raw=true
 [Rough draft](https://cvilleschools.onshape.com/documents/7b0aa35e39150dcdb07f0aa1/w/73e9bc6d49cae74f99640450/e/dae8bcf0fcdd82229f5a84aa)
 
 ## New Shopping list
