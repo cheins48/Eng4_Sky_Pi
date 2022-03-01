@@ -61,3 +61,25 @@ feb 28th to march 2nd getting the speaker working
 march 4th to 9th *Might* be dedicated to getting a signal from a remote and controling it remotly with a controller depending on whether we have a micro reciever, and if we are able to get the other weeks done.
 
 https://cvilleschools.onshape.com/documents/d02f9702869bb797ed84e06b/w/fb1974f453891c9a477c8c79/e/1e578d433cdf4da34e018e66
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+# Project Pivot
+
+## Problems
+
+- Due to some unpredicted issues, we have changed our project backed to the whipped cream launching drone. We already have the rough drafts and the cost of our project will be reduced. The drone would have an attachment that could drop whipped cream on people. (Mr.Miller)
+
+## Rough draft
+
+[Rough draft](https://cvilleschools.onshape.com/documents/7b0aa35e39150dcdb07f0aa1/w/73e9bc6d49cae74f99640450/e/dae8bcf0fcdd82229f5a84aa)
+
+## New Shopping list
+
+[Shopping list](https://docs.google.com/document/d/1tPvGNWoNBOXyaVN1nHXxPhS11FHQBHK2nczqA5JGK0U/edit?usp=sharing)
+
+## Risks
+
+- We altered our project a little late in the game but we still think that this is the best decision.
+- We might have some complications with weight while making the whipped cream launcher.
+- whipped cream = mess
