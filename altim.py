@@ -6,6 +6,10 @@ import busio
 from gpiozero import Servo
 import RPi.GPIO as GPIO
 import pigpio
+#from micro:bit import *
+
+pin18.set_analog_period(20)
+#sets the length of one pulse to be 20 milliseconds.
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(18, GPIO.OUT)
@@ -40,6 +44,4 @@ while True:
 	print(alt[0]) # print first altitude
 
 	if altitude > 1: # if length of array is greater than 1
-		pigs (s, 18, 2000) # spin fast clockwise
-		time.sleep(200)
-		pigs (s, 18, 1500)
+		pin0.write_analog(1023 * 1.2 / 20)
