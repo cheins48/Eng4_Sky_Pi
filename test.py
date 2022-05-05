@@ -27,28 +27,10 @@ minPW = (1.0 - correction)/1000
 #servo = Servo(GPIO, min_pulse_width = minPW, max_pulse_width = maxPW)
 my_servo=Servo
 
-i2c = board.I2C()
-sensor = adafruit_mpl3115a2.MPL3115A2(i2c)
-
-sensor.sealevel_pressure = 102574
-time.sleep(0.5)
-
-alt = [] # array for altitude values
-lv = sensor.altitude # initial value; zeroes it; 'launch value'
 
 while True:
-	altitude = sensor.altitude - lv
-        # altitude is the diff between initial alt and current alt
-	alt.append(altitude)
-        # add latest data to alt array
+	my_servo.angle = 180
+	time.sleep(5)
 
-	print(alt) # print array
-	print(alt[0]) # print first altitude
-
-	if altitude > 0: # if length of array is greater than 1
-		print("servo fire")
-		my_servo.angle = 180
-		time.sleep(0.05)
-	else:
-		my_servo.angle = 0
-		time.sleep(0.05)
+	my_servo.angle = 0
+	time.sleep(5)
