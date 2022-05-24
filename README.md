@@ -4,6 +4,8 @@
 
 <img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Pie.png?raw=true" width="500">
 
+# Pi in the Sky
+
 <details><summary>Old Proposal</summary>
  
  
@@ -96,5 +98,3 @@ ________________________________________________________________________________
 
  
 </details>
-
-# Pi in the Sky
