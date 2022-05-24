@@ -7,7 +7,7 @@
 # Pi in the Sky
 
 ## CAD
-(Dylan Hensley)
+With Dylan Hensley
 
 ### Goal/Problem
 
@@ -15,6 +15,7 @@
 - The second issue was weight. For a long while, I was more focussed on the complexity of the design than the function. The first dropper design contained way too many parts and would've been too heavy for the Phantom to carry.
 
 ## Code
+With Conard Heins
 
 ## Reflection
 
