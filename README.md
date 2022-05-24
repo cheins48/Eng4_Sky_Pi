@@ -4,6 +4,7 @@
 
  
 </details>
+
 # Proposal
 
 For this years PI in the sky project me and dylan decided to make a thomas the tie fighter drone.  we think it would be a poetic end to our in class independent projects, as our first project together was thomas the dank tank.  we were inspired by this offhand photo we found. 
