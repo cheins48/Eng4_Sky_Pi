@@ -2,7 +2,7 @@
 
 ### This project takes the meaning to Pi(e) in the Sky a little too literal. For our DE Engineering 4 project, we decided to create a drone attachment to the Phantom 4, that can drop pies from the sky. The goal of this project was to drop a pie/whipped cream on our engineering teacher's head. The final outcome should look like this.
 
-<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Pie.png?raw=true">
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Pie.png?raw=true" width="500">
 
 <details><summary>Old Proposal</summary>
  
