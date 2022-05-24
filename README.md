@@ -1,6 +1,6 @@
 # Eng4_Sky_Pi
 
-<details><summary>Old Proposal</summary>
+<details><summary># Old Proposal</summary>
  
  
  # Proposal
