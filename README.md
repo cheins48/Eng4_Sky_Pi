@@ -7,6 +7,12 @@
 # Pi in the Sky
 
 ## CAD
+(Dylan Hensley)
+
+### Goal/Problem
+
+- I had two big problems that I needed to face. I needed to design an attachment to a drone that wasn't designed to have anything attached to it. the whole drone is curved, with no edges to easily attach things to, the bottom of the drone is covered with sensors that can't be obstructed, and each component of the Phantom 4 has to stay attached. I had the idea of unscrewing the camera to make space to the attachment, however, I'd have to cut a few wires off a $1,000 dollar drone. NOT worth it.
+- The second issue was weight. For a long while, I was more focussed on the complexity of the design than the function. The first dropper design contained way too many parts and would've been too heavy for the Phantom to carry.
 
 ## Code
 
