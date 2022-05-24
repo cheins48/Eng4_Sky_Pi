@@ -1,11 +1,9 @@
 # Eng4_Sky_Pi
-<details><summary>Dice Roller</summary>
- 
 
+<details><summary>Old Proposal</summary>
  
-</details>
-
-# Proposal
+ 
+ # Proposal
 
 For this years PI in the sky project me and dylan decided to make a thomas the tie fighter drone.  we think it would be a poetic end to our in class independent projects, as our first project together was thomas the dank tank.  we were inspired by this offhand photo we found. 
 
@@ -91,3 +89,6 @@ ________________________________________________________________________________
 - We altered our project a little late in the game but we still think that this is the best decision.
 - We might have some complications with weight while making the whipped cream launcher.
 - whipped cream = mess
+
+ 
+</details>
