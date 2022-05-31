@@ -14,6 +14,13 @@ With Dylan Hensley
 - I had two big problems that I needed to face. I needed to design an attachment to a drone that wasn't designed to have anything attached to it. the whole drone is curved, with no edges to easily attach things to, the bottom of the drone is covered with sensors that can't be obstructed, and each component of the Phantom 4 has to stay attached. I had the idea of unscrewing the camera to make space to the attachment, however, I'd have to cut a few wires off a $1,000 dollar drone. NOT worth it.
 - The second issue was weight. For a long while, I was more focussed on the complexity of the design than the function. The first dropper design contained way too many parts and would've been too heavy for the Phantom to carry.
 
+### Solutions
+
+- To solve the attachment problem, I had to do a lot of trial and error. In the Beginning, The first attachment I designed was made to go on the bottom of the drone, however, there are multiple sensors on the the bottom of the Phantom 4, and they can't be obstructed in any way. To solve this, I designed the new attachment that went on the sides of the drone. This way, the sensors can actually do their job.
+- The reason weight was an issue at first. was becuase the first design of the dropper was an iris door. the iris door caused problems with weight and was to complex for the main goal of the project. We scrapped the idea and went with a lighter and less complex design, using a trap door instead.
+
+### Pictures
+
 ## Code
 With Conard Heins
 
