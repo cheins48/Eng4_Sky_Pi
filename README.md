@@ -21,7 +21,7 @@ With Dylan Hensley
 
 ### Pictures
 
-<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Pie.png?raw=true" width="500">
+<img src="[https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Pie.png?raw=true](https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(66).png?raw=true)" width="500">
 
 
 ## Code
