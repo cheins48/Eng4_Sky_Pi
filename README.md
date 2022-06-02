@@ -52,7 +52,6 @@ With Dylan Hensley
  [- Final Design](https://cvilleschools.onshape.com/documents/f7c19773c7e7398ac151e850/w/93b63ee8ed95d510d0a8f784/e/a8d8ad2519b2f786b5c9a8e2)
  
  ### Final Assembly
- ![IMG_20220523_103753387](https://user-images.githubusercontent.com/57632909/171655218-e4af7019-04ae-4262-8833-45ba8fd3cc4c.jpg)
 
 
 ## Code
