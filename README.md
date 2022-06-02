@@ -21,12 +21,18 @@ With Dylan Hensley
 
 ### Pictures
 
-<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(66).png?raw=true" width="300">
-* First design of dropper
+* first draft of attachment
 
-<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(67).png?raw=true" width="300">
-* final design for dropper
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(66).png?raw=true" width="200">
+* first design of dropper
 
+
+
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(67).png?raw=true" width="200">
+* final atleration of dropper
+
+
+* final design of cylinder
 
 
 ## Code
