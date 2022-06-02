@@ -21,6 +21,8 @@ With Dylan Hensley
 
 ### Pictures
 
+<details><summary>Pictures</summary>
+
 * first draft of attachment ↓
 
 <img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(69).png?raw=true" width="200">
@@ -41,7 +43,8 @@ With Dylan Hensley
 
 <img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(73).png?raw=true" width="200">
 
-
+</details>
+ 
 ## Code
 With Conard Heins
 
