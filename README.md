@@ -53,7 +53,7 @@ With Dylan Hensley
  
  ### Final Assembly
  
-<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%202022-06-02%2011.55.01%20AM.png?raw=true" width="200">
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%202022-06-02%2011.55.01%20AM.png?raw=true" width="400">
 
 
 ## Code
