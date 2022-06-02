@@ -52,6 +52,8 @@ With Dylan Hensley
  [- Final Design](https://cvilleschools.onshape.com/documents/f7c19773c7e7398ac151e850/w/93b63ee8ed95d510d0a8f784/e/a8d8ad2519b2f786b5c9a8e2)
  
  ### Final Assembly
+ 
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%202022-06-02%2011.55.01%20AM.png?raw=true" width="200">
 
 
 ## Code
