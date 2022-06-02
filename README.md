@@ -46,7 +46,9 @@ With Dylan Hensley
 
   </details>
 
-
+### Links
+ [- Iris Door](https://github.com/OstrichIsYum/Robotic-Hand/blob/main/README.md#overview)
+ [- Final Design](https://cvilleschools.onshape.com/documents/f7c19773c7e7398ac151e850/w/93b63ee8ed95d510d0a8f784/e/a8d8ad2519b2f786b5c9a8e2)
 
 ## Code
 With Conard Heins
