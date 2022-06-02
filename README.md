@@ -41,6 +41,9 @@ With Dylan Hensley
 
 * final design of cylinder ↓
 
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(73).png?raw=true" width="200">
+
+
   </details>
 
 
