@@ -28,8 +28,10 @@ With Dylan Hensley
 * first design of dropper ↓
 
 <img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(67).png?raw=true" width="200">
+
 * final atleration of dropper ↓
 
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(71).png?raw=true" width="200">
 
 * final design of cylinder ↓
 
