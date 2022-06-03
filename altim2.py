@@ -32,7 +32,7 @@ while True:
 	print(alt) # print array
 	print(alt[0]) # print first altitude
 
-	if altitude > 0: # if length of array is greater than 1
+	if altitude > 5: # if length of array is greater than 1
 		print("servo fire")
 		my_servo.max()
 		time.sleep(5)
