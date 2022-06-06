@@ -6,6 +6,21 @@
 
 # Pi in the Sky
 
+### Materials list
+
+	- Wood (Birch)
+	- Plastic Sheet
+	- Velcro
+	- Nuts and Bolts
+	- Phantom 4
+	- Raspberry Pi
+	- Micro Servo
+	- Jumper Wires
+	- Battery
+	- Circuit Board
+	- Altimeter 
+	- Power Boost
+
 ## CAD
 With Dylan Hensley
 
