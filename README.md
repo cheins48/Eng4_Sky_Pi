@@ -136,8 +136,8 @@ after having a successful run, there definitly couldve been some improvements.
 
 M. Miller got pie all over his legs. Project was successful.
 
-<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IMG_20220606_120344273.jpg?raw=true" width="400">
-<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IMG_20220606_120341807_HDR.jpg?raw=true" width="400">
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IMG_20220606_120344273.jpg?raw=true" width="300">
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IMG_20220606_120341807_HDR.jpg?raw=true" width="300">
 
 
 <details><summary>Old Proposal</summary>
