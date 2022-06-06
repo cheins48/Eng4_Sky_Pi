@@ -91,6 +91,7 @@ we decided to make the code as simple as possible by making the whipped cream dr
 
 the solution is easy, copy harriet novaK.  or rather repurpose her code, her code used an altimeter that would measure when their PI reached the peak of its arc, and once it reached said peak it would fire a servo.  I took her code and removed all the weird math jazz and simplified the functionality.  once the altimeter reaches 15 meters from its launch point, it will fire a servo, dropping whatevers in the tube.
 
+
 ```python
  #taken from Harriet Novaks repository.
 import time
@@ -135,6 +136,8 @@ while True:
 		time.sleep(5)
  ```
 
+
+<img src="" width="500">
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## Reflection
