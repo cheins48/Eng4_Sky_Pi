@@ -123,13 +123,14 @@ while True:
 after having a successful run, there definitly couldve been some improvements.  
 
 	1.  having the servo zero itself once turning on couldve saved a lot of time.
-	2. having a botton to release the pie istead of an altimeter wouldve made it easier and more reliable to trigger
-	3. having the trapdoor completly shut wouldve been nice
-	4. a cover on the camera to protect it wouldve been smart
-	5. better battery life
-	6. make the mounts easier to attach, it takes about 30 minuets as is
-	7. better aiming system for the trapdoor
+	2. having a botton to release the pie istead of an altimeter wouldve made it easier and more reliable to trigger.
+	3. having the trapdoor completly shut wouldve been nice.
+	4. a cover on the camera to protect it wouldve been smart.
+	5. better battery life.
+	6. make the mounts easier to attach, it takes about 30 minuets as is.
+	7. better aiming system for the trapdoor.
 	8. balance the weight better for easier takeoff.
+	9. minimize servo jitter.
 
 <details><summary>Old Proposal</summary>
  
