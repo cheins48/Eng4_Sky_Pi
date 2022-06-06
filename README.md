@@ -20,6 +20,7 @@
 	- Circuit Board
 	- Altimeter 
 	- Power Boost
+_______________________________________________________________________________________________________________________________________________________________________
 
 ## CAD
 With Dylan Hensley
@@ -70,6 +71,7 @@ With Dylan Hensley
  
 <img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%202022-06-02%2011.55.01%20AM.png?raw=true" width="400">
 
+_______________________________________________________________________________________________________________________________________________________________________
 
 ## Code
 With Conard Heins
@@ -133,6 +135,8 @@ while True:
 		time.sleep(5)
  ```
 
+_______________________________________________________________________________________________________________________________________________________________________
+
 ## Reflection
 
 after having a successful run, there definitly couldve been some improvements.  
@@ -153,6 +157,7 @@ M. Miller got pie all over his legs. Project was successful.
 
 <img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IMG_20220606_120344273.jpg?raw=true" width="300"> <img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IMG_20220606_120341807_HDR.jpg?raw=true" width="300">
 
+_______________________________________________________________________________________________________________________________________________________________________
 
 <details><summary>Old Proposal</summary>
  
