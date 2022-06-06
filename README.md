@@ -136,8 +136,7 @@ after having a successful run, there definitly couldve been some improvements.
 
 M. Miller got pie all over his legs. Project was successful.
 
-<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IMG_20220606_120344273.jpg?raw=true" width="300">
-<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IMG_20220606_120341807_HDR.jpg?raw=true" width="300">
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IMG_20220606_120344273.jpg?raw=true" width="300"><img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/IMG_20220606_120341807_HDR.jpg?raw=true" width="300">
 
 
 <details><summary>Old Proposal</summary>
@@ -163,7 +162,8 @@ make a thomas the tie fighter drone that shoots lasers and scares children.
 5. figuring out what out PI is gonna do.  the current plan is to make it turn laser pointers on and make a "pew" sound.
 
 ## Media/Design concepts
-<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(29).png?raw=true" width="700"> <img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/WIN_20220210_10_05_11_Pro.jpg?raw=true" width="700">
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/Screenshot%20(29).png?raw=true" width="700"> 
+<img src="https://github.com/cheins48/Eng4_Sky_Pi/blob/main/WIN_20220210_10_05_11_Pro.jpg?raw=true" width="700">
 
 ### Sudo Code For Laser
  ``` python
